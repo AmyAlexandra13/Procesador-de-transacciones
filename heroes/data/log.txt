@@ -1,0 +1,35 @@
+s:2754:"Se agrego una transaccion en la fecha de 10-04-2021 00:40:26,el cual el ID es 1
+Se agrego una transaccion en la fecha de 10-04-2021 00:41:01,el cual el ID es 2
+Se edito una transaccion en la fecha de 10-04-2021 00:44:37,el cual el ID es 1
+Se edito una transaccion en la fecha de 10-04-2021 00:45:10,el cual el ID es 2
+Se edito una transaccion en la fecha de 10-04-2021 00:47:08,el cual el ID es 
+Se agrego una transaccion en la fecha de 10-04-2021 00:48:10,el cual el ID es 1
+Se agrego una transaccion en la fecha de 10-04-2021 00:48:22,el cual el ID es 3
+Se elimino una transaccion en la fecha de 10-04-2021 00:49:20,el cual el ID es 
+Se elimino una transaccion en la fecha de 10-04-2021 00:50:09,el cual el ID es 
+Se agrego una transaccion en la fecha de 10-04-2021 00:53:23,el cual el ID es 1
+Se agrego una transaccion en la fecha de 10-04-2021 00:53:33,el cual el ID es 1
+Se agrego una transaccion en la fecha de 10-04-2021 00:53:51,el cual el ID es 2
+Se elimino una transaccion en la fecha de 10-04-2021 00:53:54,el cual el ID es 
+Se elimino una transaccion en la fecha de 10-04-2021 00:53:55,el cual el ID es 
+Se elimino una transaccion en la fecha de 10-04-2021 00:53:57,el cual el ID es 
+Se elimino una transaccion en la fecha de 10-04-2021 00:53:59,el cual el ID es 
+Se agrego una transaccion en la fecha de 10-04-2021 00:54:02,el cual el ID es 1
+Se agrego una transaccion en la fecha de 10-04-2021 00:54:06,el cual el ID es 2
+Se elimino una transaccion en la fecha de 10-04-2021 00:54:49,el cual el ID es 
+Se agrego una transaccion en la fecha de 10-04-2021 00:57:00,el cual el ID es 2
+Se elimino una transaccion en la fecha de 10-04-2021 00:57:03,el cual el ID es 
+Se agrego una transaccion en la fecha de 10-04-2021 00:57:51,el cual el ID es 2
+Se agrego una transaccion en la fecha de 10-04-2021 00:58:03,el cual el ID es 3
+Se elimino una transaccion en la fecha de 10-04-2021 00:58:11,el cual el ID es 
+Se elimino una transaccion en la fecha de 10-04-2021 01:00:33,el cual el ID es 3
+Se elimino una transaccion en la fecha de 11-04-2021 04:27:29,el cual el ID es 1
+Se agrego una transaccion en la fecha de 11-04-2021 04:28:07,el cual el ID es 1
+Se edito una transaccion en la fecha de 11-04-2021 04:28:18,el cual el ID es 1
+Se agrego una transaccion en la fecha de 11-04-2021 05:20:10,el cual el ID es 2
+Se agrego una transaccion en la fecha de 11-04-2021 05:25:37,el cual el ID es 5
+Se elimino una transaccion en la fecha de 11-04-2021 05:25:55,el cual el ID es 5
+Se elimino una transaccion en la fecha de 11-04-2021 05:25:58,el cual el ID es 4
+Se elimino una transaccion en la fecha de 11-04-2021 05:26:00,el cual el ID es 3
+Se agrego una transaccion en la fecha de 11-04-2021 05:36:57,el cual el ID es 3
+";
